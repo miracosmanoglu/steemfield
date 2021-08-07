@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9d10aa7.chunk.css",
+    "main.js": "/static/js/main.dd6a0152.chunk.js",
+    "main.js.map": "/static/js/main.dd6a0152.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a3f90a10.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a3f90a10.js.map",
+    "static/css/2.2dd33519.chunk.css": "/static/css/2.2dd33519.chunk.css",
+    "static/js/2.27a8b79a.chunk.js": "/static/js/2.27a8b79a.chunk.js",
+    "static/js/2.27a8b79a.chunk.js.map": "/static/js/2.27a8b79a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2dd33519.chunk.css.map": "/static/css/2.2dd33519.chunk.css.map",
+    "static/css/main.a9d10aa7.chunk.css.map": "/static/css/main.a9d10aa7.chunk.css.map",
+    "static/js/2.27a8b79a.chunk.js.LICENSE.txt": "/static/js/2.27a8b79a.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/calendaricon.976d619c.svg": "/static/media/calendaricon.976d619c.svg",
+    "static/media/exchange.b5cbd567.svg": "/static/media/exchange.b5cbd567.svg",
+    "static/media/saveicon.e771a454.svg": "/static/media/saveicon.e771a454.svg",
+    "static/media/settingsbox.195929d2.svg": "/static/media/settingsbox.195929d2.svg",
+    "static/media/star.ba8ce747.svg": "/static/media/star.ba8ce747.svg",
+    "static/media/walletbox.96618dda.svg": "/static/media/walletbox.96618dda.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3f90a10.js",
+    "static/css/2.2dd33519.chunk.css",
+    "static/js/2.27a8b79a.chunk.js",
+    "static/css/main.a9d10aa7.chunk.css",
+    "static/js/main.dd6a0152.chunk.js"
+  ]
+}
